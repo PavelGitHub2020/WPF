@@ -1,0 +1,34 @@
+D:\Козлов\WinForms\WpfApplication3\WpfApplication3\bin\Debug\WpfApplication3.exe.config
+D:\Козлов\WinForms\WpfApplication3\WpfApplication3\bin\Debug\WpfApplication3.exe
+D:\Козлов\WinForms\WpfApplication3\WpfApplication3\bin\Debug\WpfApplication3.pdb
+D:\Козлов\WinForms\WpfApplication3\WpfApplication3\obj\Debug\WpfApplication3.csprojResolveAssemblyReference.cache
+D:\Козлов\WinForms\WpfApplication3\WpfApplication3\obj\Debug\MainWindow.g.cs
+D:\Козлов\WinForms\WpfApplication3\WpfApplication3\obj\Debug\App.g.cs
+D:\Козлов\WinForms\WpfApplication3\WpfApplication3\obj\Debug\WpfApplication3_Content.g.cs
+D:\Козлов\WinForms\WpfApplication3\WpfApplication3\obj\Debug\WpfApplication3_MarkupCompile.cache
+D:\Козлов\WinForms\WpfApplication3\WpfApplication3\obj\Debug\WpfApplication3_MarkupCompile.lref
+D:\Козлов\WinForms\WpfApplication3\WpfApplication3\obj\Debug\MainWindow.baml
+D:\Козлов\WinForms\WpfApplication3\WpfApplication3\obj\Debug\WpfApplication3.g.resources
+D:\Козлов\WinForms\WpfApplication3\WpfApplication3\obj\Debug\WpfApplication3.Properties.Resources.resources
+D:\Козлов\WinForms\WpfApplication3\WpfApplication3\obj\Debug\WpfApplication3.csproj.GenerateResource.Cache
+D:\Козлов\WinForms\WpfApplication3\WpfApplication3\obj\Debug\WpfApplication3.exe
+D:\Козлов\WinForms\WpfApplication3\WpfApplication3\obj\Debug\WpfApplication3.pdb
+F:\WpfApplication3\WpfApplication3\bin\Debug\WpfApplication3.exe.config
+F:\WpfApplication3\WpfApplication3\obj\Debug\WpfApplication3.exe
+F:\WpfApplication3\WpfApplication3\obj\Debug\WpfApplication3.pdb
+B:\учебный проект\для примеров\WinFormsApplication\WPF_VideoPleer\WpfApplication3\WpfApplication3\bin\Debug\WpfApplication3.exe.config
+B:\учебный проект\для примеров\WinFormsApplication\WPF_VideoPleer\WpfApplication3\WpfApplication3\bin\Debug\WpfApplication3.exe
+B:\учебный проект\для примеров\WinFormsApplication\WPF_VideoPleer\WpfApplication3\WpfApplication3\bin\Debug\WpfApplication3.pdb
+B:\учебный проект\для примеров\WinFormsApplication\WPF_VideoPleer\WpfApplication3\WpfApplication3\obj\Debug\WpfApplication3.csprojAssemblyReference.cache
+B:\учебный проект\для примеров\WinFormsApplication\WPF_VideoPleer\WpfApplication3\WpfApplication3\obj\Debug\MainWindow.g.cs
+B:\учебный проект\для примеров\WinFormsApplication\WPF_VideoPleer\WpfApplication3\WpfApplication3\obj\Debug\App.g.cs
+B:\учебный проект\для примеров\WinFormsApplication\WPF_VideoPleer\WpfApplication3\WpfApplication3\obj\Debug\WpfApplication3_Content.g.cs
+B:\учебный проект\для примеров\WinFormsApplication\WPF_VideoPleer\WpfApplication3\WpfApplication3\obj\Debug\WpfApplication3_MarkupCompile.cache
+B:\учебный проект\для примеров\WinFormsApplication\WPF_VideoPleer\WpfApplication3\WpfApplication3\obj\Debug\WpfApplication3_MarkupCompile.lref
+B:\учебный проект\для примеров\WinFormsApplication\WPF_VideoPleer\WpfApplication3\WpfApplication3\obj\Debug\MainWindow.baml
+B:\учебный проект\для примеров\WinFormsApplication\WPF_VideoPleer\WpfApplication3\WpfApplication3\obj\Debug\WpfApplication3.g.resources
+B:\учебный проект\для примеров\WinFormsApplication\WPF_VideoPleer\WpfApplication3\WpfApplication3\obj\Debug\WpfApplication3.Properties.Resources.resources
+B:\учебный проект\для примеров\WinFormsApplication\WPF_VideoPleer\WpfApplication3\WpfApplication3\obj\Debug\WpfApplication3.csproj.GenerateResource.cache
+B:\учебный проект\для примеров\WinFormsApplication\WPF_VideoPleer\WpfApplication3\WpfApplication3\obj\Debug\WpfApplication3.csproj.CoreCompileInputs.cache
+B:\учебный проект\для примеров\WinFormsApplication\WPF_VideoPleer\WpfApplication3\WpfApplication3\obj\Debug\WpfApplication3.exe
+B:\учебный проект\для примеров\WinFormsApplication\WPF_VideoPleer\WpfApplication3\WpfApplication3\obj\Debug\WpfApplication3.pdb

@@ -1,0 +1,46 @@
+B:\учебный проект\для примеров\WinFormsApplication\Keyboard_Simulator\Keyboard_Simulator\bin\Debug\Keyboard_Simulator.exe.config
+B:\учебный проект\для примеров\WinFormsApplication\Keyboard_Simulator\Keyboard_Simulator\bin\Debug\Keyboard_Simulator.exe
+B:\учебный проект\для примеров\WinFormsApplication\Keyboard_Simulator\Keyboard_Simulator\bin\Debug\Keyboard_Simulator.pdb
+B:\учебный проект\для примеров\WinFormsApplication\Keyboard_Simulator\Keyboard_Simulator\obj\Debug\Keyboard_Simulator.csprojAssemblyReference.cache
+B:\учебный проект\для примеров\WinFormsApplication\Keyboard_Simulator\Keyboard_Simulator\obj\Debug\MainWindow.g.cs
+B:\учебный проект\для примеров\WinFormsApplication\Keyboard_Simulator\Keyboard_Simulator\obj\Debug\App.g.cs
+B:\учебный проект\для примеров\WinFormsApplication\Keyboard_Simulator\Keyboard_Simulator\obj\Debug\Keyboard_Simulator_MarkupCompile.cache
+B:\учебный проект\для примеров\WinFormsApplication\Keyboard_Simulator\Keyboard_Simulator\obj\Debug\Keyboard_Simulator_MarkupCompile.lref
+B:\учебный проект\для примеров\WinFormsApplication\Keyboard_Simulator\Keyboard_Simulator\obj\Debug\MainWindow.baml
+B:\учебный проект\для примеров\WinFormsApplication\Keyboard_Simulator\Keyboard_Simulator\obj\Debug\Keyboard_Simulator.g.resources
+B:\учебный проект\для примеров\WinFormsApplication\Keyboard_Simulator\Keyboard_Simulator\obj\Debug\Keyboard_Simulator.Properties.Resources.resources
+B:\учебный проект\для примеров\WinFormsApplication\Keyboard_Simulator\Keyboard_Simulator\obj\Debug\Keyboard_Simulator.csproj.GenerateResource.cache
+B:\учебный проект\для примеров\WinFormsApplication\Keyboard_Simulator\Keyboard_Simulator\obj\Debug\Keyboard_Simulator.csproj.CoreCompileInputs.cache
+B:\учебный проект\для примеров\WinFormsApplication\Keyboard_Simulator\Keyboard_Simulator\obj\Debug\Keyboard_Simulator.exe
+B:\учебный проект\для примеров\WinFormsApplication\Keyboard_Simulator\Keyboard_Simulator\obj\Debug\Keyboard_Simulator.pdb
+F:\Keyboard_Simulator\Keyboard_Simulator\bin\Debug\Keyboard_Simulator.exe.config
+F:\Keyboard_Simulator\Keyboard_Simulator\bin\Debug\Keyboard_Simulator.exe
+F:\Keyboard_Simulator\Keyboard_Simulator\bin\Debug\Keyboard_Simulator.pdb
+F:\Keyboard_Simulator\Keyboard_Simulator\obj\Debug\MainWindow.g.cs
+F:\Keyboard_Simulator\Keyboard_Simulator\obj\Debug\App.g.cs
+F:\Keyboard_Simulator\Keyboard_Simulator\obj\Debug\Keyboard_Simulator_MarkupCompile.cache
+F:\Keyboard_Simulator\Keyboard_Simulator\obj\Debug\Keyboard_Simulator_MarkupCompile.lref
+F:\Keyboard_Simulator\Keyboard_Simulator\obj\Debug\MainWindow.baml
+F:\Keyboard_Simulator\Keyboard_Simulator\obj\Debug\Keyboard_Simulator.g.resources
+F:\Keyboard_Simulator\Keyboard_Simulator\obj\Debug\Keyboard_Simulator.Properties.Resources.resources
+F:\Keyboard_Simulator\Keyboard_Simulator\obj\Debug\Keyboard_Simulator.csproj.GenerateResource.cache
+F:\Keyboard_Simulator\Keyboard_Simulator\obj\Debug\Keyboard_Simulator.exe
+F:\Keyboard_Simulator\Keyboard_Simulator\obj\Debug\Keyboard_Simulator.pdb
+F:\Keyboard_Simulator\Keyboard_Simulator\obj\Debug\Keyboard_Simulator.csprojResolveAssemblyReference.cache
+B:\учебный проект\для примеров\WinFormsApplication\Keyboard_Simulator\Keyboard_Simulator\obj\Debug\App.baml
+B:\учебный проект\для примеров\in GitHub\WPF\Keyboard_Simulator\Keyboard_Simulator\bin\Debug\Keyboard_Simulator.exe.config
+B:\учебный проект\для примеров\in GitHub\WPF\Keyboard_Simulator\Keyboard_Simulator\bin\Debug\Keyboard_Simulator.exe
+B:\учебный проект\для примеров\in GitHub\WPF\Keyboard_Simulator\Keyboard_Simulator\bin\Debug\Keyboard_Simulator.pdb
+B:\учебный проект\для примеров\in GitHub\WPF\Keyboard_Simulator\Keyboard_Simulator\obj\Debug\Keyboard_Simulator.csprojAssemblyReference.cache
+B:\учебный проект\для примеров\in GitHub\WPF\Keyboard_Simulator\Keyboard_Simulator\obj\Debug\MainWindow.g.cs
+B:\учебный проект\для примеров\in GitHub\WPF\Keyboard_Simulator\Keyboard_Simulator\obj\Debug\App.g.cs
+B:\учебный проект\для примеров\in GitHub\WPF\Keyboard_Simulator\Keyboard_Simulator\obj\Debug\Keyboard_Simulator_MarkupCompile.cache
+B:\учебный проект\для примеров\in GitHub\WPF\Keyboard_Simulator\Keyboard_Simulator\obj\Debug\Keyboard_Simulator_MarkupCompile.lref
+B:\учебный проект\для примеров\in GitHub\WPF\Keyboard_Simulator\Keyboard_Simulator\obj\Debug\App.baml
+B:\учебный проект\для примеров\in GitHub\WPF\Keyboard_Simulator\Keyboard_Simulator\obj\Debug\MainWindow.baml
+B:\учебный проект\для примеров\in GitHub\WPF\Keyboard_Simulator\Keyboard_Simulator\obj\Debug\Keyboard_Simulator.g.resources
+B:\учебный проект\для примеров\in GitHub\WPF\Keyboard_Simulator\Keyboard_Simulator\obj\Debug\Keyboard_Simulator.Properties.Resources.resources
+B:\учебный проект\для примеров\in GitHub\WPF\Keyboard_Simulator\Keyboard_Simulator\obj\Debug\Keyboard_Simulator.csproj.GenerateResource.cache
+B:\учебный проект\для примеров\in GitHub\WPF\Keyboard_Simulator\Keyboard_Simulator\obj\Debug\Keyboard_Simulator.csproj.CoreCompileInputs.cache
+B:\учебный проект\для примеров\in GitHub\WPF\Keyboard_Simulator\Keyboard_Simulator\obj\Debug\Keyboard_Simulator.exe
+B:\учебный проект\для примеров\in GitHub\WPF\Keyboard_Simulator\Keyboard_Simulator\obj\Debug\Keyboard_Simulator.pdb

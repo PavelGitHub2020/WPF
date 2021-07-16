@@ -1,0 +1,97 @@
+﻿<Window x:Class="Lesson2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Lesson2"
+        mc:Ignorable="d"
+        Title="Calculator" Height="450.718" Width="548.756">
+    <Grid Margin="0,0,0,0">
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="48*"/>
+            <RowDefinition Height="105*"/>
+            <RowDefinition Height="124*"/>
+            <RowDefinition Height="124*"/>
+            <RowDefinition Height="124*"/>
+            <RowDefinition Height="124*"/>
+            <RowDefinition Height="124*"/>
+        </Grid.RowDefinitions>
+
+        <TextBox  Grid.Column="0" Grid.ColumnSpan="4" Grid.Row="0" FontSize="15"
+                  IsReadOnly="True" TextAlignment="Right" Margin="2,2,2,2" Name="textBox1">
+        </TextBox>
+
+        <TextBox IsReadOnly="True" TextAlignment="Right" BorderThickness="0" Grid.Column="0"
+                 Grid.ColumnSpan="4" Grid.Row="1" FontSize="40" Margin="2,2,2,2" Name="textBox">
+        </TextBox>
+            
+        <Button Click="Button_Click_CE" HorizontalContentAlignment="Center" Grid.Column="0"
+                Grid.Row="2" FontSize="40" Margin="2,2,2,2" Name="btn_Nine">CE</Button>
+        
+        <Button Click="Button_Click_C" HorizontalContentAlignment="Center" Grid.Column="1" 
+                Grid.Row="2" FontSize="40" Margin="2,2,2,2" Name="btn_C">C</Button>
+        
+        <Button Click="Button_Click_Less" HorizontalContentAlignment="Center" Grid.Column="2"
+                Grid.Row="2" FontSize="40" Margin="2,2,2,2" Name="btn_Less">&lt;</Button>
+        
+        <Button Click="Button_Click_Divide" HorizontalContentAlignment="Center" Grid.Column="3"
+                Grid.Row="2" FontSize="40" Margin="2,2,2,2" Name="btn_Divide">/</Button>
+        
+        <Button Click="Button_Click_7" HorizontalContentAlignment="Center" Grid.Column="0"
+                Grid.Row="3" FontSize="40" Margin="2,2,2,2" Name="btn_7">7</Button>
+        
+        <Button Click="Button_Click_8" HorizontalContentAlignment="Center" Grid.Column="1"
+                Grid.Row="3" FontSize="40" Margin="2,2,2,2" Name="btn_8">8</Button>
+        
+        <Button Click="Button_Click_9" HorizontalContentAlignment="Center" Grid.Column="2"
+                Grid.Row="3" FontSize="40" Margin="2,2,2,2" Name="btn_9">9</Button>
+        
+        <Button Click="Button_Click_Multiply" HorizontalContentAlignment="Center" Grid.Column="3"
+                Grid.Row="3" FontSize="40" Margin="2,2,2,2" Name="btn_Multiply">*</Button>
+        
+        <Button Click="Button_Click_4" HorizontalContentAlignment="Center" Grid.Column="0"
+                Grid.Row="4" FontSize="40" Margin="2,2,2,2" Name="btn_4">4</Button>
+        
+        <Button Click="Button_Click_5" HorizontalContentAlignment="Center" Grid.Column="1"
+                Grid.Row="4" FontSize="40" Margin="2,2,2,2" Name="btn_5">5</Button>
+        
+        <Button Click="Button_Click_6" HorizontalContentAlignment="Center" Grid.Column="2"
+                Grid.Row="4" FontSize="40" Margin="2,2,2,2" Name="btn_6" >6</Button>
+        
+        <Button Click="Button_Click_Subtraction" HorizontalContentAlignment="Center" Grid.Column="3"
+                Grid.Row="4" FontSize="40" Margin="2,2,2,2" Name="btn_Subtraction">-</Button>
+        
+        <Button Click="Button_Click_1" HorizontalContentAlignment="Center" Grid.Column="0"
+                Grid.Row="5" FontSize="40" Margin="2,2,2,2" Name="btn_1">1</Button>
+        
+        <Button Click="Button_Click_2" HorizontalContentAlignment="Center" Grid.Column="1"
+                Grid.Row="5" FontSize="40" Margin="2,2,2,2" Name="btn_2">2</Button>
+        
+        <Button Click="Button_Click_3" HorizontalContentAlignment="Center" Grid.Column="2"
+                Grid.Row="5" FontSize="40" Margin="2,2,2,2" Name="btn_3" >3</Button>
+        
+        <Button Click="Button_Click_Addition" HorizontalContentAlignment="Center" Grid.Column="3"
+                Grid.Row="5" FontSize="40" Margin="2,2,2,2" Name="btn_Addition">+</Button>
+        
+        <Button Click="Button_Click_Dot" HorizontalContentAlignment="Center" Grid.Column="0"
+                Grid.Row="6" FontSize="40" Margin="2,2,2,2" Name="btn_Dot">.</Button>
+        
+        <Button Click="Button_Click_0" HorizontalContentAlignment="Center" Grid.Column="1"
+                Grid.Row="6" FontSize="40" Margin="2,2,2,2" Name="btn_0">0</Button>
+        
+        <Button Click="Button_Click_Result" HorizontalContentAlignment="Center" Grid.Column="2"
+                Grid.ColumnSpan="2" Grid.Row="6" FontSize="40" Margin="2,2,2,2" Name="btn_Result" >=</Button>
+
+
+
+
+        
+    </Grid>
+</Window>

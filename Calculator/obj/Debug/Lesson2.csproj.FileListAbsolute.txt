@@ -1,0 +1,37 @@
+B:\учебный проект\для примеров\WinFormsApplication\WPF_1\Lesson2\bin\Debug\Lesson2.exe.config
+B:\учебный проект\для примеров\WinFormsApplication\WPF_1\Lesson2\bin\Debug\Lesson2.exe
+B:\учебный проект\для примеров\WinFormsApplication\WPF_1\Lesson2\bin\Debug\Lesson2.pdb
+B:\учебный проект\для примеров\WinFormsApplication\WPF_1\Lesson2\obj\Debug\Lesson2.csprojAssemblyReference.cache
+B:\учебный проект\для примеров\WinFormsApplication\WPF_1\Lesson2\obj\Debug\MainWindow.g.cs
+B:\учебный проект\для примеров\WinFormsApplication\WPF_1\Lesson2\obj\Debug\App.g.cs
+B:\учебный проект\для примеров\WinFormsApplication\WPF_1\Lesson2\obj\Debug\Lesson2_MarkupCompile.cache
+B:\учебный проект\для примеров\WinFormsApplication\WPF_1\Lesson2\obj\Debug\Lesson2_MarkupCompile.lref
+B:\учебный проект\для примеров\WinFormsApplication\WPF_1\Lesson2\obj\Debug\MainWindow.baml
+B:\учебный проект\для примеров\WinFormsApplication\WPF_1\Lesson2\obj\Debug\Lesson2.g.resources
+B:\учебный проект\для примеров\WinFormsApplication\WPF_1\Lesson2\obj\Debug\Lesson2.Properties.Resources.resources
+B:\учебный проект\для примеров\WinFormsApplication\WPF_1\Lesson2\obj\Debug\Lesson2.csproj.GenerateResource.cache
+B:\учебный проект\для примеров\WinFormsApplication\WPF_1\Lesson2\obj\Debug\Lesson2.csproj.CoreCompileInputs.cache
+B:\учебный проект\для примеров\WinFormsApplication\WPF_1\Lesson2\obj\Debug\Lesson2.exe
+B:\учебный проект\для примеров\WinFormsApplication\WPF_1\Lesson2\obj\Debug\Lesson2.pdb
+D:\Козлов\Calculator\WPF_1\Lesson2\bin\Debug\Lesson2.exe.config
+D:\Козлов\Calculator\WPF_1\Lesson2\bin\Debug\Lesson2.exe
+D:\Козлов\Calculator\WPF_1\Lesson2\bin\Debug\Lesson2.pdb
+D:\Козлов\Calculator\WPF_1\Lesson2\obj\Debug\Lesson2.csprojAssemblyReference.cache
+D:\Козлов\Calculator\WPF_1\Lesson2\obj\Debug\MainWindow.g.cs
+D:\Козлов\Calculator\WPF_1\Lesson2\obj\Debug\App.g.cs
+D:\Козлов\Calculator\WPF_1\Lesson2\obj\Debug\Lesson2_MarkupCompile.cache
+D:\Козлов\Calculator\WPF_1\Lesson2\obj\Debug\Lesson2_MarkupCompile.lref
+D:\Козлов\Calculator\WPF_1\Lesson2\obj\Debug\MainWindow.baml
+D:\Козлов\Calculator\WPF_1\Lesson2\obj\Debug\Lesson2.g.resources
+D:\Козлов\Calculator\WPF_1\Lesson2\obj\Debug\Lesson2.Properties.Resources.resources
+D:\Козлов\Calculator\WPF_1\Lesson2\obj\Debug\Lesson2.csproj.GenerateResource.cache
+D:\Козлов\Calculator\WPF_1\Lesson2\obj\Debug\Lesson2.csproj.CoreCompileInputs.cache
+D:\Козлов\Calculator\WPF_1\Lesson2\obj\Debug\Lesson2.exe
+D:\Козлов\Calculator\WPF_1\Lesson2\obj\Debug\Lesson2.pdb
+F:\Calculator\WPF_1\Lesson2\obj\Debug\Lesson2.csprojAssemblyReference.cache
+F:\Calculator\WPF_1\Lesson2\obj\Debug\MainWindow.g.cs
+F:\Calculator\WPF_1\Lesson2\obj\Debug\App.g.cs
+F:\Calculator\WPF_1\Lesson2\obj\Debug\Lesson2_MarkupCompile.cache
+F:\Calculator\WPF_1\Lesson2\obj\Debug\Lesson2_MarkupCompile.lref
+F:\Calculator\WPF_1\Lesson2\obj\Debug\Lesson2.exe
+F:\Calculator\WPF_1\Lesson2\obj\Debug\Lesson2.pdb
